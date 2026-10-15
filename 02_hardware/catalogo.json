@@ -1,0 +1,148 @@
+{
+  "Cpus": [
+    {
+      "Name": "CPU A6",
+      "Price": 650,
+      "Socket": "A",
+      "MemoryType": "DDR4",
+      "Watts": 65,
+      "Score": 65
+    },
+    {
+      "Name": "CPU A8",
+      "Price": 1000,
+      "Socket": "A",
+      "MemoryType": "DDR4",
+      "Watts": 95,
+      "Score": 82
+    },
+    {
+      "Name": "CPU B6",
+      "Price": 1050,
+      "Socket": "B",
+      "MemoryType": "DDR5",
+      "Watts": 80,
+      "Score": 88
+    }
+  ],
+  "Boards": [
+    {
+      "Name": "Placa A compacta",
+      "Price": 450,
+      "Socket": "A",
+      "MemoryType": "DDR4",
+      "Form": "mATX",
+      "MaxRamGb": 64,
+      "M2Nvme": true
+    },
+    {
+      "Name": "Placa A expandida",
+      "Price": 650,
+      "Socket": "A",
+      "MemoryType": "DDR4",
+      "Form": "ATX",
+      "MaxRamGb": 128,
+      "M2Nvme": true
+    },
+    {
+      "Name": "Placa B compacta",
+      "Price": 750,
+      "Socket": "B",
+      "MemoryType": "DDR5",
+      "Form": "mATX",
+      "MaxRamGb": 128,
+      "M2Nvme": true
+    }
+  ],
+  "Rams": [
+    {
+      "Name": "Kit DDR4 16 GB",
+      "Price": 230,
+      "MemoryType": "DDR4",
+      "Gb": 16
+    },
+    {
+      "Name": "Kit DDR4 32 GB",
+      "Price": 400,
+      "MemoryType": "DDR4",
+      "Gb": 32
+    },
+    {
+      "Name": "Kit DDR5 32 GB",
+      "Price": 550,
+      "MemoryType": "DDR5",
+      "Gb": 32
+    }
+  ],
+  "Gpus": [
+    {
+      "Name": "GPU entrada",
+      "Price": 800,
+      "Watts": 100,
+      "LengthMm": 200,
+      "Pcie8Pin": 1,
+      "Score": 45
+    },
+    {
+      "Name": "GPU intermediária",
+      "Price": 1400,
+      "Watts": 170,
+      "LengthMm": 270,
+      "Pcie8Pin": 1,
+      "Score": 75
+    },
+    {
+      "Name": "GPU avançada",
+      "Price": 2300,
+      "Watts": 260,
+      "LengthMm": 330,
+      "Pcie8Pin": 2,
+      "Score": 95
+    }
+  ],
+  "Psus": [
+    {
+      "Name": "Fonte 450 W",
+      "Price": 250,
+      "Watts": 450,
+      "Pcie8Pin": 1
+    },
+    {
+      "Name": "Fonte 650 W",
+      "Price": 400,
+      "Watts": 650,
+      "Pcie8Pin": 2
+    }
+  ],
+  "Ssds": [
+    {
+      "Name": "NVMe 500 GB",
+      "Price": 220,
+      "Gb": 500
+    },
+    {
+      "Name": "NVMe 1000 GB",
+      "Price": 380,
+      "Gb": 1000
+    }
+  ],
+  "Cases": [
+    {
+      "Name": "Gabinete compacto",
+      "Price": 180,
+      "Forms": [
+        "mATX"
+      ],
+      "MaxGpuMm": 280
+    },
+    {
+      "Name": "Gabinete amplo",
+      "Price": 300,
+      "Forms": [
+        "mATX",
+        "ATX"
+      ],
+      "MaxGpuMm": 350
+    }
+  ]
+}
