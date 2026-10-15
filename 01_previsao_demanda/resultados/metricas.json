@@ -1,0 +1,20 @@
+{
+  "observacoes": 36,
+  "treino": 28,
+  "teste": 8,
+  "regressao_teste": {
+    "MAE": 8.380541871921196,
+    "RMSE": 9.162035182718098,
+    "R2": 0.7503441202602672
+  },
+  "baseline_teste": {
+    "MAE": 26.625,
+    "RMSE": 29.90610305606533,
+    "R2": -1.6599749058971143
+  },
+  "modelo_final": {
+    "intercepto": 200.39189189189187,
+    "inclinacao_mensal": 6.9776061776061775
+  },
+  "dados": "Origem informada pelo usuário; amostra inclusa é sintética."
+}
